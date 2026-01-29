@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Logo from '@/assets/img/favicon.ico';
+import Logo from '@/assets/img/medical.svg'; // 改成您的新图标文件名
 
 const getLogo = () => {
     return Logo;
